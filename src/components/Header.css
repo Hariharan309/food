@@ -1,0 +1,43 @@
+.navbar{
+ background-color: #222;
+ width: 100%;
+ height: 50px;
+ align-items: center;
+ justify-content: space-between;
+ display: flex;
+ padding: 0px 40px;
+ 
+
+}
+.logo
+{
+    color: #fff;
+    font-size: 20px;
+    
+}
+.navbar ul{
+    display: inline-flex;
+    gap: 30px;
+}
+.navbar ul li{
+    list-style-type: none;
+    
+}
+.navbar ul li a{
+    color: #fff;
+    text-decoration: none;
+    justify-content: space-between;
+    
+
+}
+.count{
+    background-color: rgb(25, 4, 58);
+    padding: 5px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+}

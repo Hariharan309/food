@@ -1,0 +1,174 @@
+[{
+
+    "id":89,
+    "name":"Farmers Picks",
+    "amt":299,
+    "ftype":"Pizza",
+    "shop":"pizza hurt" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/89.jpg"
+},
+ {
+    "id":290,
+    "name":"Paper Roast Dosa",
+    "amt":150,
+    "ftype":"bun",
+    "shop":"Dominos" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/124.jpg"  
+ },
+
+ {
+    "id":120,
+    "name":"Alferdo Pasta",
+    "amt":75,
+    "ftype":"Food",
+    "shop":"pizza hurt" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/26.jpg" },
+
+ {
+    "id":100,
+    "name":"Chicken 65",
+    "amt":100,
+    "ftype":"snacks",
+    "shop":"pizza hurt" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/9.jpg"  
+ },
+
+ {
+    "id":10,
+    "name":"Momo Mia Meal",
+    "amt":125,
+    "ftype":"veg",
+    "shop":"Kurinji" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/80.jpg"  
+ },
+
+ {
+
+    "id":55,
+    "name":"Orange Juice",
+    "amt":75,
+    "ftype":"Snacks",
+    "shop":"pizza hurt" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/28.jpg"  
+ },
+
+ {
+    "id":70,
+    "name":"Milk Halwa",
+    "amt":120,
+    "ftype":"Pizza",
+    "shop":"Q4 biriyani" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/67.jpg"  
+ },
+
+ {
+    "id":88,
+    "name":"vegetable soup",
+    "amt":145,
+    "ftype":"kabab",
+    "shop":"Sarminar" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/120.jpg"  
+ },
+
+ {
+    "id":89,
+    "name":"Chicken Dry",
+    "amt":400,
+    "ftype":"chicken",
+    "shop":"Q4" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/20.jpg"  
+ },
+
+ {
+    "id":130,
+    "name":"Veg Seekh Kabab",
+    "amt":230,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/130.jpg"  
+ },
+ {
+   "id":20,
+    "name":"Malai Doda",
+    "amt":120,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/72.jpg" },
+ {
+   "id":58,
+    "name":"Jam Roll Cake",
+    "amt":120,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/58.jpg"
+ },
+ {
+   "id":133,
+    "name":"Spicy Chicken",
+    "amt":350,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/133.jpg"
+ },
+
+ {
+   "id":113,
+    "name":"Curd Vadai",
+    "amt":38,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/113.jpg"
+ },
+
+ {
+   "id":82,
+    "name":"Momo Mia Choco",
+    "amt":319,
+    "ftype":"Food",
+    "shop":"Hotel Temble city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/82.jpg"
+ },
+ {
+   "id":64,
+    "name":"Walnut Brownie",
+    "amt":157,
+    "ftype":"Food",
+    "shop":"Prabha Hotel" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/64.jpg"
+ },
+
+ {
+   "id":39,
+    "name":"Cotton Candy",
+    "amt":99,
+    "ftype":"Food",
+    "shop":"Hotel Sivaksi" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/39.jpg"
+ },
+
+ {
+   "id":12,
+    "name":"Veg Pizza",
+    "amt":219,
+    "ftype":"Food",
+    "shop":"Hotel Appans" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/12.jpg"
+ },
+
+ {
+   "id":137,
+    "name":"Chicken Soup",
+    "amt":150,
+    "ftype":"Food",
+    "shop":"Hotel Balaji" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/137.jpg"
+ },
+ {
+   "id":105,
+    "name":"Paratha",
+    "amt":65,
+    "ftype":"Food",
+    "shop":"Food city" ,
+    "pic":"https:www.app.tutorjoes.in/img/food/105.jpg"
+ }
+]
